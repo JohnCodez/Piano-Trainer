@@ -1,0 +1,43 @@
+body {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+#content {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    display: flex;
+}
+
+#main-display {
+    position: relative;
+    background-color: black;
+    border: 1rem solid grey;
+    width: 50rem;
+    height: 35rem;
+    left: 10%;
+    transform: translateY(10%);
+}
+
+#list-display {
+    position: relative;
+    background-color: black;
+    border: 1rem solid grey;
+    width: 25em;
+    height: 35rem;
+    left: 15%;
+    transform: translateY(10%);
+}
+
+#sheetmusic {
+}
+
+#piano {
+}
+
+#check-button {
+}

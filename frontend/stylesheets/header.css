@@ -8,10 +8,6 @@ header{
     align-items: center;
 }
 
-body {
-    margin: 0;
-}
-
 #title{
     font-size: 200%;
 }
